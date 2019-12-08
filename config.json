@@ -1,5 +1,5 @@
 {
-    "botSecretKey": "xxx",
+    "botSecretKey": "NjMwODk0MDYyNDUwMzc2NzI0.Xe0P2g.8coqL96O8CEtpQ8HuGOd9g3OzD0",
     "serverPort": 3000,
     "dbFileName": "keyStore",
     "serverSecret": "asdfghjkl"
